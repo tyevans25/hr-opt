@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Environment variables — never commit real credentials
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+hr-opt-frontend/dist/
+hr-opt-frontend/.vite/
+
+# Test artifacts / generated files
+test_resumes/
+interview_videos/
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo

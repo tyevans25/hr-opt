@@ -1,0 +1,32 @@
+Data Scientist, Experimentation
+
+New York City
+Commercial
+
+THE POSITION
+The Data Scientist, Generosity Experimentation will play a pivotal role in growing an experimentation function within the Sportsbook Commercial team focused on retention and loyalty. Reporting to the Experimentation Manager, this role will help to accelerate the speed of learning while maintaining standardization of processes across teams. The Data Scientist will partner with retention marketing stakeholders and will be responsible for designing and analyzing experiments that help to answer key questions and drive promotional strategy. They will have the opportunity to work cross-functionally, aligning with commercial stakeholders, generosity data science, marketing technology and machine learning engineering to pursue a best-in-class personalization strategy.
+
+THE GAME PLAN
+- Partner with commercial marketing teams to design and analyze experiments related to personalization efforts, including audience optimization, generosity mechanics and generosity delivery
+- Compile results and present insights and recommendations to marketing leadership
+- Continue the advancement of a cross-functional experimentation program
+- Be a thought leader in identifying and evaluating tools and capabilities to advance our practice
+- Introduce advanced statistical techniques to support data analysis and insight generation
+- Drive culture of experimentation throughout the Sportsbook business
+
+THE STATS
+- Minimum of 1+ years of experience in a data science or analytics role
+- Bachelor's degree in quantitative field (Math, Statistics, Economics, Engineering) is preferred. Master's degree a plus.
+- Experience with experimental design, A/B/n testing, and use of statistical analysis
+- Experience with analysis or experimentation of personalization efforts, a plus
+- Advanced SQL skills required
+- Experience with statistical programming tools such as Python, R or SAS preferred
+- Strong problem-solving skills, with ability to work through ambiguity
+- Commercial acumen: understanding of P&L, business principles and commercial levers
+- Presents clearly and with impact to a wide range of stakeholders
+
+ABOUT FANDUEL
+FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including America's #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry's unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product.
+
+SALARY: $98,000 - $122,000 USD
+LOCATION: New York City (Hybrid)
